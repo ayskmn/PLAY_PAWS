@@ -1,0 +1,122 @@
+ [
+	 {
+		 "name": "Petsafe Wireless Fence Collar",
+		 "price": "152.90",
+		 "description": "The PetSafe Wireless Fence Collar should be used for dogs that are 8 pounds and up. Fits neck sizes 6-28 inches.Waterproof receiver. Compatible with PetSafe Wireless Containment System (PIF-300 system, IF-100 transmitter) and Stay+Play Wireless Fence (PIF00-12917).5 adjustable levels of correction.Tone-only mode alerts your pet with a beep. Add an unlimited number of pets with additional wireless receiver collars.6 Volt Battery Included ( RFA-67D). 2 Extra Free Batteries Included with this package.",
+		 "ratings": 5,
+		 "images": [{
+			 "public_id": "products/p",
+			 "url": "https://m.media-amazon.com/images/I/61WpU2gHtZL._AC_SL1020_.jpg"
+		 }],
+		 "category": "Electronics",
+		 "seller": "Amazon",
+		 "stock": 2,
+		 "numOfReviews": 8,
+		 "reviews": [],
+		 "user":"61f8070752cc16a065c88bc4"
+		 
+	 },
+	 {
+		"name": "Casfuy Dog Nail Grinder",
+		"price": "19.0",
+		"description": "Advanced 2-Speed Switch & 3 Grinding Ports: The trimmer features an adjustable, low-high speed design powerful enough support heavy grinding. And with 3 ports to match small, medium, or large pets, simply choose the appropriate port and speed depending on your pet's size and nail hardness.",
+		"ratings": 1,
+		"images": [{
+			"public_id": "products/sfkjsndfksnf",
+			"url": "https://m.media-amazon.com/images/I/61+i1f-IqgL._AC_SX679_.jpg"
+		}],
+		"category": "Electronics",
+		"seller": "Amazon",
+		"stock": 18,
+		"numOfReviews": 4,
+		"reviews": [],
+		"user":"61f8070752cc16a065c88bc4"
+		
+	},
+	{
+		"name": "NPET WF050 Cat/ Dog Water Fountain",
+		"price": "119.0",
+		"description":"1.5 L water capacity is suitable for different age of cats, dogs and multiple pet households. No need to replenish water frequently, the storing water can last one week. Therefore you could go out for few days without worrying your lovely pets. Please don't take off the silicone hose attached to the pump when you install the fountain.",
+		"ratings": 5,
+		"images": [{
+			"public_id": "products/sfkjsndfksnf",
+			"url": "https://m.media-amazon.com/images/I/61kKwRmuntL._AC_SL1000_.jpg"
+		}],
+		"category": "Electronics",
+		"seller": "Amazon",
+		"stock": 4,
+		"numOfReviews": 2,
+		"reviews": [],
+		"user":"61f8070752cc16a065c88bc4"
+		
+	},
+	{
+		"name": "PETLIBRO Automatic Cat Feeder, 2.4G WiFi Enabled Smart Food Dispenser with Stainless Steel Food Bowl ",
+		"price": "85.90",
+		"ratings": 5,
+		"description":"Easy Phone APP Feeding: Great food dispenser with remote APP control, feed your pets from anywhere anytime with your phone (Android and iOS) and track feeding records for management control. Remotely set times and amount of food to feed your pet automatically and can be shared to multiple accounts",
+		"images": [{
+			"public_id": "products/sfkjsndfksnf",
+			"url": "https://m.media-amazon.com/images/I/71VSgmdO1PL._AC_SL1500_.jpg"
+		}],
+		"category": "Electronics",
+		"seller": "Amazon",
+		"stock": 10,
+		"numOfReviews": 0,
+		"reviews": [],
+		"user":"61f8070752cc16a065c88bc4"
+		
+	},
+	{
+		"name": "LOOCOO Interesting Electronic Bug Toys",
+		"price": "10.00",
+		"ratings": 4,
+		"description":"It has an extraordinary sense of balance,it can even flip to the feet,and zoom forward when opening the back.",
+		"images": [{
+			"public_id": "products/sfkjsndfksnf",
+			"url": "https://m.media-amazon.com/images/I/517UZcOdTeL._AC_.jpg"
+		}],
+		"category": "Electronics",
+		"seller": "Amazon",
+		"stock": 30,
+		"numOfReviews": 0,
+		"reviews": [],
+		"user":"61f8070752cc16a065c88bc4"
+		
+	},
+	{
+		"name": "SmartyKat Race 'N Chase Electronic Remote Control Mouse Cat Toy",
+		"price": "14.90",
+		"ratings": 4,
+		"description":"Mimics the motion & texture of prey, engaging cats in play.",
+		"images": [{
+			"public_id": "products/sfkjsndfksnf",
+			"url": "https://m.media-amazon.com/images/I/61K9+iHgYAL._AC_SX679_.jpg"
+		}],
+		"category": "Electronics",
+		"seller": "Amazon",
+		"stock": 25,
+		"numOfReviews": 0,
+		"reviews": [],
+		"user":"61f8070752cc16a065c88bc4"
+		
+	},
+	{
+		"name": "Enabot Ebo SE Moving Home Security Camera",
+		"price": "119",
+		"ratings": 5,
+		"description":"Interactive Pet Robot 1080P, with 2 Way Audio, Night Vision, Auto-Cruise, Self-Charging, Motion Detection IP Cam.",
+		"images": [{
+			"public_id": "products/sfkjsndfksnf",
+			"url": "https://m.media-amazon.com/images/I/61K9+iHgYAL._AC_SX679_.jpg"
+		}],
+		"category": "Electronics",
+		"seller": "Amazon",
+		"stock": 8,
+		"numOfReviews": 0,
+		"reviews": [],
+		"user":"61f8070752cc16a065c88bc4"
+		
+	}
+
+ ]
